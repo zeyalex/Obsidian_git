@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git команди/Основні команди Git.md",
+                "file": "2024-09-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git команди/Основні команди Git.md",
+                "file": "2024-09-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git команди/Основні команди Git.md",
+                "file": "2024-09-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git команди/Основні команди Git.md"
+                "file": "2024-09-30.md"
               }
             }
           },
@@ -157,9 +157,10 @@
   },
   "active": "bed34fa8ac768554",
   "lastOpenFiles": [
-    "git команди/Git.md",
     "git команди/Основні команди Git.md",
     "Тестовий документ.md",
+    "2024-09-30.md",
+    "git команди/Git.md",
     "README.md",
     "Git/Git.md",
     "Git/Основні команди Git.md",
