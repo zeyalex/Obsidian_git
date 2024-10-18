@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сценарій.md",
+                "file": "git команди/Основні команди Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сценарій.md",
+                "file": "git команди/Основні команди Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сценарій.md",
+                "file": "git команди/Основні команди Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сценарій.md"
+                "file": "git команди/Основні команди Git.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "333008ba2c17fa10",
   "lastOpenFiles": [
+    "git команди/Git.md",
     "Сценарій.md",
     "Без назви.md",
     "2024-10-02.md",
@@ -164,7 +165,6 @@
     "Без назви 1",
     "git команди/Основні команди Git.md",
     "Без назви",
-    "git команди/Git.md",
     "README.md",
     "2024-09-30.md",
     "Git/Git.md",
