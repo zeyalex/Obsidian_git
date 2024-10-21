@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"425c1e35ca35a847","x":-260,"y":200,"width":250,"height":50,"color":"2","type":"text","text":"Лера"},
+		{"id":"c947ec90013c4220","x":380,"y":-310,"width":250,"height":60,"color":"4","type":"text","text":"Саша"},
+		{"id":"3694c996f4709dc3","x":-300,"y":-180,"width":250,"height":50,"color":"6","type":"text","text":"       Софія\n"}
+	],
+	"edges":[
+		{"id":"5b8a0deacb0c2543","fromNode":"425c1e35ca35a847","fromSide":"top","toNode":"3694c996f4709dc3","toSide":"right"},
+		{"id":"1cf76a3726f8bd70","fromNode":"c947ec90013c4220","fromSide":"bottom","toNode":"425c1e35ca35a847","toSide":"right"},
+		{"id":"1426b33e7aeae85d","fromNode":"3694c996f4709dc3","fromSide":"top","toNode":"c947ec90013c4220","toSide":"top"}
+	]
+}

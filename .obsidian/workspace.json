@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сценарій.md",
+                "file": "2024-10-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сценарій"
+              "title": "2024-10-21"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сценарій.md",
+                "file": "Без назви.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Зворотні посилання для Сценарій"
+              "title": "Зворотні посилання для Без назви"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сценарій.md",
+                "file": "Без назви.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Вихідні посилання з Сценарій"
+              "title": "Вихідні посилання з Без назви"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сценарій.md"
+                "file": "Без назви.canvas"
               },
               "icon": "lucide-list",
-              "title": "Вміст Сценарій"
+              "title": "Вміст Без назви"
             }
           },
           {
@@ -160,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 356.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,15 +175,17 @@
   },
   "active": "333008ba2c17fa10",
   "lastOpenFiles": [
+    "README.md",
+    "2024-10-21.md",
+    "Сценарій на книжку \"Палюче тепло\".md",
+    "Без назви.md",
+    "Без назви.canvas",
     "git команди/Основні команди Git.md",
     "git команди/Git.md",
-    "Сценарій.md",
-    "Без назви.md",
     "2024-10-02.md",
     "Без назви 1.md",
     "Без назви 1",
     "Без назви",
-    "README.md",
     "2024-09-30.md",
     "Git/Git.md",
     "Git/Основні команди Git.md",
