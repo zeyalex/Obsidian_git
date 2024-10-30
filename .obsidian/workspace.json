@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "333008ba2c17fa10",
+            "id": "509f5b96b1494c49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-10-21.md",
+                "file": "2024-10-30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-21"
+              "title": "2024-10-30"
             }
           }
         ]
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a2a991f629d8de31",
@@ -174,18 +173,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "333008ba2c17fa10",
+  "active": "509f5b96b1494c49",
   "lastOpenFiles": [
-    "2024-10-22.md",
-    "2024-10-21.md",
+    "2024-10-28.md",
+    "2024-10-30.md",
+    "Без назви 2.canvas",
+    "Без назви 1.canvas",
     "Без назви.canvas",
-    "Сценарій на книжку \"Палюче тепло\".md",
+    "2024-10-21.md",
+    "2024-10-22.md",
+    "2024-10-24.md",
+    "2024-10-25.md",
+    "Mark Down.md",
     "README.md",
+    "Сценарій на книжку \"Палюче тепло\".md",
+    "Віджет для kde plazma.md",
     "Без назви.md",
     "git команди/Основні команди Git.md",
     "git команди/Git.md",
     "2024-10-02.md",
-    "Без назви 1.md",
     "Без назви 1",
     "Без назви",
     "2024-09-30.md",
