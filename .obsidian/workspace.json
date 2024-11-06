@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "45a2f435b1ba41a4",
+        "id": "6ffeeb319c60ddb3",
         "type": "tabs",
         "children": [
           {
-            "id": "509f5b96b1494c49",
+            "id": "ac007ea2459a9c5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-10-30.md",
+                "file": "2024-11-06.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-30"
+              "title": "2024-11-06"
+            }
+          },
+          {
+            "id": "f872da34d14b3463",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-11-06.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-06"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,17 +188,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "509f5b96b1494c49",
+  "active": "f872da34d14b3463",
   "lastOpenFiles": [
+    "2024-11-06.md",
+    "2024-10-24.md",
     "2024-10-28.md",
+    "2024-10-25.md",
+    "2024-10-22.md",
+    "2024-10-21.md",
     "2024-10-30.md",
+    "2024-11-01.md",
+    "2024-11-04.md",
+    "Tamplates/Everyday tamplate.md",
+    "2024-11-03.md",
+    "Моя бібліотека.md",
+    "Моя Бібліотека.md",
+    "Бібліотека.md",
+    "2024-11-02.md",
+    "Кладовище домашніх тварин.md",
+    "Tamplates/Book tamplate.md",
+    "Tamplates",
     "Без назви 2.canvas",
     "Без назви 1.canvas",
     "Без назви.canvas",
-    "2024-10-21.md",
-    "2024-10-22.md",
-    "2024-10-24.md",
-    "2024-10-25.md",
     "Mark Down.md",
     "README.md",
     "Сценарій на книжку \"Палюче тепло\".md",
@@ -195,8 +222,6 @@
     "Без назви 1",
     "Без назви",
     "2024-09-30.md",
-    "Git/Git.md",
-    "Git/Основні команди Git.md",
     "Git"
   ]
 }
